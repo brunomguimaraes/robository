@@ -1,0 +1,16 @@
+schema/schema.graphql
+node_modules
+.next
+.env
+.editorconfig
+.DS_Store
+
+# relay
+dev-schema.json
+**/__generated__
+
+# MacOS
+.DS_Store
+
+# Error logs
+yarn-error.log
