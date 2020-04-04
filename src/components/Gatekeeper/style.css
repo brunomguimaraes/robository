@@ -1,0 +1,38 @@
+@font-face { font-family: retroComputer; src: url('../../assets/fonts/retro_computer.ttf'); }
+
+.gatekeeper {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gatekeeperContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 25vh;
+  margin-bottom: 16px;
+}
+
+.gatekeeperGif {
+  width: 400px;
+}
+
+.headerContainer {
+  margin-left: 8px;
+}
+
+.h1Gatekeeper {
+  color: #02BE2A;
+  font-family: retroComputer;
+}
+
+.h2Gatekeeper {
+  color: #02BE2A;
+  font-family: retroComputer;
+  animation: typing 3.5s steps(40, end);
+}

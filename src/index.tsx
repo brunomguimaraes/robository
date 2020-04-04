@@ -1,9 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './components/App';
+import { Router } from "react-router-dom";
+import { createBrowserHistory } from "history";
+
 import './index.css';
-import Gatekeeper from './components/Gatekeeper';
+
+const browserHistory = createBrowserHistory();
 
 ReactDOM.render(
-    <Gatekeeper />,
+      <Router history={browserHistory}>
+        <App />
+      </Router>,
   document.getElementById('root')
 );
