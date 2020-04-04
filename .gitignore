@@ -5,6 +5,9 @@ node_modules
 .editorconfig
 .DS_Store
 
+# production
+/build
+
 # relay
 dev-schema.json
 **/__generated__
