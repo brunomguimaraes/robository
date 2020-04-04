@@ -1,0 +1,30 @@
+@font-face { font-family: retroComputer; src: url('../../assets/fonts/retro_computer.ttf'); }
+
+.dinotron {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dinotronHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dinotronSpeech {
+  margin: 16px;
+  font-family: retroComputer;
+  color: #BA1200;
+  font-size: 24px;
+}
+
+.dinoGif {
+  max-height: 150px;
+  max-width: 244px;
+}
