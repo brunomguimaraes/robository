@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './components/App';
+import { Router } from "react-router-dom";
+import { createBrowserHistory } from "history";
+
 import './index.css';
-import Gatekeeper from './components/Gatekeeper';
-import AvaliableApps from './components/AvaliableApps';
+
+const browserHistory = createBrowserHistory();
 
 ReactDOM.render(
-    <main>
-      <Gatekeeper />
-      <AvaliableApps />
-    </main>,
+      <Router history={browserHistory}>
+        <App />
+      </Router>,
   document.getElementById('root')
 );

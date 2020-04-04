@@ -1,16 +1,17 @@
-.gatekeeper {
+.avaliableApps {
+  margin: 24px;
   display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  margin: auto;
-}
-
-.gatekeeperGif {
-  width: 400px;
+  justify-content: center;
 }
 
 .appsButton {
   background-color: #586A6A;
   border-color: #586A6A;
+  color: #CEE0DC
 }
 
+.appsButton:hover {
+  background-color: #818D92;
+  border-color: #818D92;
+  color: #CEE0DC
+}
