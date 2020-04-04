@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/robository/static/css/main.2f2d26ac.chunk.css",
-    "main.js": "/robository/static/js/main.ae1f2420.chunk.js",
-    "main.js.map": "/robository/static/js/main.ae1f2420.chunk.js.map",
+    "main.css": "/robository/static/css/main.1f95945f.chunk.css",
+    "main.js": "/robository/static/js/main.45350005.chunk.js",
+    "main.js.map": "/robository/static/js/main.45350005.chunk.js.map",
     "runtime-main.js": "/robository/static/js/runtime-main.ec6c0205.js",
     "runtime-main.js.map": "/robository/static/js/runtime-main.ec6c0205.js.map",
     "static/css/2.ad8fe80d.chunk.css": "/robository/static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.d625e97b.chunk.js": "/robository/static/js/2.d625e97b.chunk.js",
-    "static/js/2.d625e97b.chunk.js.map": "/robository/static/js/2.d625e97b.chunk.js.map",
+    "static/js/2.0b55c2ed.chunk.js": "/robository/static/js/2.0b55c2ed.chunk.js",
+    "static/js/2.0b55c2ed.chunk.js.map": "/robository/static/js/2.0b55c2ed.chunk.js.map",
     "index.html": "/robository/index.html",
-    "precache-manifest.d1588c10ee8962ea112d2bb2bf3d138a.js": "/robository/precache-manifest.d1588c10ee8962ea112d2bb2bf3d138a.js",
+    "precache-manifest.1c5fae26c5e466324d458248e46d0194.js": "/robository/precache-manifest.1c5fae26c5e466324d458248e46d0194.js",
     "service-worker.js": "/robository/service-worker.js",
     "static/css/2.ad8fe80d.chunk.css.map": "/robository/static/css/2.ad8fe80d.chunk.css.map",
-    "static/css/main.2f2d26ac.chunk.css.map": "/robository/static/css/main.2f2d26ac.chunk.css.map",
-    "static/js/2.d625e97b.chunk.js.LICENSE.txt": "/robository/static/js/2.d625e97b.chunk.js.LICENSE.txt",
+    "static/css/main.1f95945f.chunk.css.map": "/robository/static/css/main.1f95945f.chunk.css.map",
+    "static/js/2.0b55c2ed.chunk.js.LICENSE.txt": "/robository/static/js/2.0b55c2ed.chunk.js.LICENSE.txt",
+    "static/media/dino.gif": "/robository/static/media/dino.5cf1a924.gif",
     "static/media/gatekeeper.gif": "/robository/static/media/gatekeeper.cf58e853.gif",
     "static/media/style.css": "/robository/static/media/retro_computer.1e40420a.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.ec6c0205.js",
     "static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.d625e97b.chunk.js",
-    "static/css/main.2f2d26ac.chunk.css",
-    "static/js/main.ae1f2420.chunk.js"
+    "static/js/2.0b55c2ed.chunk.js",
+    "static/css/main.1f95945f.chunk.css",
+    "static/js/main.45350005.chunk.js"
   ]
 }
